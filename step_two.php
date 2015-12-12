@@ -72,13 +72,13 @@
 //            $mail->isSMTP();                                      // Set mailer to use SMTP
 //            $mail->Host = 'smtp1.gmail.com';  // Specify main and backup SMTP servers
 //            $mail->SMTPAuth = true;                               // Enable SMTP authentication
-//            $mail->Username = 'conian2000@gmail.com';                 // SMTP username
+//            $mail->Username = 'ctran43@myseneca.ca';                 // SMTP username
 //            $mail->Password = 'secret';                           // SMTP password
 //            $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 //            $mail->Port = 587;                                    // TCP port to connect to
 
-//            $mail->setFrom('ctran43@myseneca.ca', 'CT');
-//            $mail->addAddress('conian2000@gmail.com', 'Conian');     // Add a recipient
+//            $mail->setFrom('ctran43@myseneca.ca', 'Co Tran');
+//            $mail->addAddress('eric.chen@senecacollege.com', 'Eric Chen');     // Add a recipient
 //            $mail->addAddress('ellen@example.com');               // Name is optional
 //            $mail->addReplyTo('info@example.com', 'Information');
 //            $mail->addCC('cc@example.com');
